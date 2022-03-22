@@ -1,10 +1,12 @@
 /*
- * mini_project2_r.c
- *
- *  Created on.;7: Sep 21, 2021
- *      Author: Rahma Abdelkader
+ ============================================================================
+ Name        : mini_project2_r.c
+ Author      : Rahma Abdelkader
+ Date        : 21 september 2021
+ Copyright   : Your copyright notice
+ Description : Stop watch
+ ============================================================================
  */
-
 
 #include <avr/io.h>
 #include <util/delay.h>
